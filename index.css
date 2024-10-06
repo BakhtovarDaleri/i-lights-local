@@ -331,6 +331,15 @@ span {
   .catalog-menu a {
     height: 22px;
   }
+  .catalog-menu button {
+    display: none;
+  }
+  .catalog-images {
+    display: none;
+  }
+  .image-container img {
+    display: none;
+  }
 }
 /* Конец каталога */
 
@@ -652,6 +661,9 @@ span {
     font-size: 18px;
     margin-left: 9px;
   }
+  .downloads-icon img {
+    display: none;
+  }
 }
 /* Конец  downloads */
 
@@ -740,6 +752,9 @@ span {
   }
   .contact-me h2 {
     font-size: 18px;
+  }
+  .contact-me img {
+    display: none;
   }
 }
 /* Конец  мои контакты */
