@@ -104,7 +104,6 @@ span {
     margin-bottom: 40px;
   }
 }
-
 /* Начало шапки */
 .home {
   display: flex;
@@ -376,6 +375,7 @@ span {
   color: #ffc94f;
   border-bottom: 2px solid #ffc94f;
 }
+
 @media (max-width: 480px) {
   .services-details img {
     margin-left: 10px;
@@ -386,6 +386,7 @@ span {
     height: 111px;
   }
 }
+
 /* Конец услуги */
 
 /* Начало новинки */
@@ -665,6 +666,7 @@ span {
     display: none;
   }
 }
+
 /* Конец  downloads */
 
 /* Начало  мои контакты */
@@ -848,6 +850,7 @@ span {
   width: 20px;
   height: 20px;
 }
+
 @media (max-width: 480px) {
   .logo-section img {
     margin-top: 19px;
