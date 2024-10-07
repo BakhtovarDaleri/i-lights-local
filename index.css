@@ -759,6 +759,7 @@ span {
 }
 /* Конец  мои контакты */
 
+/* Начало подвала */
 .footer {
   height: 301px;
   background-color: #3b4b56;
@@ -857,3 +858,4 @@ span {
     font-size: 12px;
   }
 }
+/* Конец подвала */
