@@ -81,9 +81,6 @@ span {
   display: none;
 }
 @media (max-width: 480px) {
-  html {
-    letter-spacing: 0;
-    @media (max-width: 480px) {
       body {
         width: 366px;
       }
@@ -217,6 +214,10 @@ span {
         flex-direction: column;
         margin: 0;
         padding-left: 0;
+      }
+      .prev-arrow,
+      .next-arrow {
+        display: none;
       }
 
       /* Изображение идет первым */
